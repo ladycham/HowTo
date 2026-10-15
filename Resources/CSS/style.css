@@ -6,21 +6,61 @@ h1 {
 font-size: 2.5rem;
 color: #3a4660;
 font-weight: 600;
+padding: 20px;
+padding-left: 40px;
 }
 
 h2 {
-font-size: 2rem;
+font-size: 3rem;
 color: #845007;
+padding: 20px;
+padding-top: 50px;
+padding-left: 40px;
+padding-bottom: 60px;
 }
 
 h3 {
-font-size: 1.5rem;
+font-size: 3rem;
 color: #3a4660;
+padding: 20px;
+padding-top: 50px;
+padding-left: 40px;
+padding-bottom: 40px;
 }
 
 a {
 background-color: #3a4660;
+font-size: 3rem;
+font-weight: 100;
 color: #c9af98;
 text-decoration: none;
 padding: 20px;
+padding-left: 40px;
+}
+
+
+h4 {
+font-size: 2rem;
+color: #845007;
+padding: 20px;
+padding-top: 10px;
+padding-bottom: 40px;
+padding-left: 40px;
+}
+
+ol,
+div
+ {
+    font-size: 1.25rem;
+    color: #3a4660;
+    font-weight: 60;
+    padding: 20px;
+    padding-left: 60px;
+}
+
+ul, 
+nav
+{
+    font-size: 1.25rem;
+    padding-left: 100px;
 }
